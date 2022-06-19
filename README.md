@@ -1,4 +1,5 @@
 # vactionpicker
+van Thomas Kuijvenhoven 
 
 ## Project setup
 ```
